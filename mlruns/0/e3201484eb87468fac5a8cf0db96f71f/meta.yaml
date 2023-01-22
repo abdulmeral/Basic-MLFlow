@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/e3201484eb87468fac5a8cf0db96f71f/artifacts
+end_time: 1674408699151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3201484eb87468fac5a8cf0db96f71f
+run_name: puzzled-goose-896
+run_uuid: e3201484eb87468fac5a8cf0db96f71f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408697005
+status: 3
+tags: []
+user_id: monster

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/a4baad9c3b664abcb758ce4986839381/artifacts
+end_time: 1674408704201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4baad9c3b664abcb758ce4986839381
+run_name: big-crow-574
+run_uuid: a4baad9c3b664abcb758ce4986839381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408701991
+status: 3
+tags: []
+user_id: monster

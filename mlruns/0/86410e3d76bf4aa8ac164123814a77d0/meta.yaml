@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/86410e3d76bf4aa8ac164123814a77d0/artifacts
+end_time: 1674408678370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86410e3d76bf4aa8ac164123814a77d0
+run_name: awesome-finch-613
+run_uuid: 86410e3d76bf4aa8ac164123814a77d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408676064
+status: 3
+tags: []
+user_id: monster

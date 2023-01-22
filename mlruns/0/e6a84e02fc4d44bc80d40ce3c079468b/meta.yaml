@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/e6a84e02fc4d44bc80d40ce3c079468b/artifacts
+end_time: 1674408683824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6a84e02fc4d44bc80d40ce3c079468b
+run_name: stately-squirrel-166
+run_uuid: e6a84e02fc4d44bc80d40ce3c079468b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408681447
+status: 3
+tags: []
+user_id: monster

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/8a98826c78944c809c927d5e9bc0b00a/artifacts
+end_time: 1674408637561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a98826c78944c809c927d5e9bc0b00a
+run_name: learned-gnu-809
+run_uuid: 8a98826c78944c809c927d5e9bc0b00a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408635408
+status: 3
+tags: []
+user_id: monster

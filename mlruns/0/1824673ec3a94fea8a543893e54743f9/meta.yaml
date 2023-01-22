@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/1824673ec3a94fea8a543893e54743f9/artifacts
+end_time: 1674408709128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1824673ec3a94fea8a543893e54743f9
+run_name: puzzled-panda-593
+run_uuid: 1824673ec3a94fea8a543893e54743f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408706973
+status: 3
+tags: []
+user_id: monster

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/3027e97ccd3b415da8aac936323e8712/artifacts
+end_time: 1674408516281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3027e97ccd3b415da8aac936323e8712
+run_name: exultant-fawn-432
+run_uuid: 3027e97ccd3b415da8aac936323e8712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408514016
+status: 3
+tags: []
+user_id: monster

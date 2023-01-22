@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/a747c5a543b149f3a12dee7b3b87e9a4/artifacts
+end_time: 1674408662377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a747c5a543b149f3a12dee7b3b87e9a4
+run_name: carefree-hog-741
+run_uuid: a747c5a543b149f3a12dee7b3b87e9a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408660160
+status: 3
+tags: []
+user_id: monster

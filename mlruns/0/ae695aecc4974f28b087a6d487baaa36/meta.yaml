@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/ae695aecc4974f28b087a6d487baaa36/artifacts
+end_time: 1674408647364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae695aecc4974f28b087a6d487baaa36
+run_name: crawling-hare-760
+run_uuid: ae695aecc4974f28b087a6d487baaa36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408645232
+status: 3
+tags: []
+user_id: monster

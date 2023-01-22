@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/79532d839dfe4e97b05e7f1516c9de5b/artifacts
+end_time: 1674408608101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79532d839dfe4e97b05e7f1516c9de5b
+run_name: polite-deer-640
+run_uuid: 79532d839dfe4e97b05e7f1516c9de5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408605969
+status: 3
+tags: []
+user_id: monster

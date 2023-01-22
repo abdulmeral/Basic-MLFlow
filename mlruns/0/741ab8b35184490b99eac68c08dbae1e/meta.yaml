@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/741ab8b35184490b99eac68c08dbae1e/artifacts
+end_time: 1674408652407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 741ab8b35184490b99eac68c08dbae1e
+run_name: fortunate-wolf-643
+run_uuid: 741ab8b35184490b99eac68c08dbae1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408650184
+status: 3
+tags: []
+user_id: monster

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/d42a22a66da140b7b5d0d0105ccf976e/artifacts
+end_time: 1674408613019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d42a22a66da140b7b5d0d0105ccf976e
+run_name: grandiose-fowl-151
+run_uuid: d42a22a66da140b7b5d0d0105ccf976e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408610857
+status: 3
+tags: []
+user_id: monster

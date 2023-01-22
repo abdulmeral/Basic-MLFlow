@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/19cbe9c88f41447ba75d59bf2f2a84fb/artifacts
+end_time: 1674408526742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19cbe9c88f41447ba75d59bf2f2a84fb
+run_name: powerful-wren-280
+run_uuid: 19cbe9c88f41447ba75d59bf2f2a84fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408524586
+status: 3
+tags: []
+user_id: monster

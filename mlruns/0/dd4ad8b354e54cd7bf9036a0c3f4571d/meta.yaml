@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/dd4ad8b354e54cd7bf9036a0c3f4571d/artifacts
+end_time: 1674408478273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd4ad8b354e54cd7bf9036a0c3f4571d
+run_name: awesome-seal-691
+run_uuid: dd4ad8b354e54cd7bf9036a0c3f4571d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408478253
+status: 4
+tags: []
+user_id: monster

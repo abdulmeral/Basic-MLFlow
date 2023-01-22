@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/24b8b366914f4b849bee8eedf9d5a541/artifacts
+end_time: 1674408718868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24b8b366914f4b849bee8eedf9d5a541
+run_name: peaceful-jay-251
+run_uuid: 24b8b366914f4b849bee8eedf9d5a541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408716691
+status: 3
+tags: []
+user_id: monster

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ineuron/mlflow/mlruns/0/9d88b97ae8d942d790803ca040038a34/artifacts
+end_time: 1674408668081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d88b97ae8d942d790803ca040038a34
+run_name: intelligent-asp-785
+run_uuid: 9d88b97ae8d942d790803ca040038a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674408665309
+status: 3
+tags: []
+user_id: monster
